@@ -1,0 +1,4 @@
+!/bin/csh
+Typedef String char[];
+int swap(String A, String B);
+void write(String A, String B);
